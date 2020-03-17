@@ -1,6 +1,6 @@
 <h1 align="center">Http Status Codes</h1>
 
-[<img src="https://res.cloudinary.com/ngleadersdb/image/upload/v1584474698/it_huyjrx.png" align="right" width="250" height="250">](https://github.com/afolorunso/)
+[<img src="https://res.cloudinary.com/ngleadersdb/image/upload/w_200,h_100,v1584474698/it_huyjrx.png" align="right" width="250" height="">](https://github.com/afolorunso/)
 
 > This is a list of Hypertext Transfer Protocol response status codes, status codes are issued by the server in response to the request made by the  client.
 
