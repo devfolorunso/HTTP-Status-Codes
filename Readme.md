@@ -16,9 +16,20 @@
 | 5xx  | Server Error |
 
 
-### 1xx Informational response codes
-
+### 📌 1xx Informational response codes
 * 100 Continue
 * 101 Switching Protocols
 * 102 Processing 
 * 103 Early Hints
+
+### 📌 2xx Success response codes
+* 200 Ok
+* 201 Created
+* 202 Accepted 
+* 203 Non authoritative information
+* 204 No content
+* 205 Reset content
+* 206 Partial Content
+* 207 Multi status
+* 208 Already Report
+* 226 IM Used
