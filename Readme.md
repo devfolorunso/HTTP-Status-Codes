@@ -8,3 +8,11 @@
 
 > All the  HTTP response status codes are seperated into five classes or categories. The first digit of the code tells us the class of the response, while the last two digits do not have any classifying or categorizing role.
 
+
+| Category | Meaning |
+| --- | --- |
+| 1xx | Informational response |
+| 2xx  | Successful |
+| 3xx  | Redirection |
+| 4xx  | Client Error |
+| 5xx  | Server Error |
