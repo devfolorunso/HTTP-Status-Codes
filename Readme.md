@@ -16,13 +16,13 @@
 | 5xx  | Server Error |
 
 
-### 📌 1xx Informational response codes
+### ⭐️ 1xx Informational response codes
 * 100 Continue
 * 101 Switching Protocols
 * 102 Processing 
 * 103 Early Hints
 
-### 📌 2xx Success response codes
+### ⭐️ 2xx Success Status codes
 * 200 Ok
 * 201 Created
 * 202 Accepted 
@@ -33,3 +33,14 @@
 * 207 Multi status
 * 208 Already Report
 * 226 IM Used
+
+### ⭐️ 3xx Redeirection Status
+* 300 Ok
+* 301 Created
+* 302 Accepted 
+* 303 Non authoritative information
+* 304 No content
+* 305 No content
+* 306 No content
+* 307 No content
+
