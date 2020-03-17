@@ -1,7 +1,10 @@
 <h1 align="center">Http Status Codes</h1>
 
 
-> A curated list of Http status codes made for everyone, <br/> get to know the status codes that exist with their meaning.
+> This is a list of Hypertext Transfer Protocol response status codes, status codes are issued by the server in response to the request made by the  client.
 
 
-[<img src="https://res.cloudinary.com/ngleadersdb/image/upload/v1584474698/it_huyjrx.png" align="right" width="250" height="250">](https://github.com/zeit/next.js)
+[<img src="https://res.cloudinary.com/ngleadersdb/image/upload/v1584474698/it_huyjrx.png" align="right" width="250" height="250">](https://github.com/afolorunso/)
+
+<p align="center">All the  HTTP response status codes are seperated into five classes or categories. The first digit of the code tells us the class of the response, while the last two digits do not have any classifying or categorizing role.</p>
+
