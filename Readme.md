@@ -6,7 +6,7 @@
 
 > All the  HTTP response status codes are seperated into five classes or categories. The first digit of the code tells us the class of the response, while the last two digits do not have any classifying or categorizing role.
 
-## There are five classes of Http Status Codes
+<h1> There are five classes of Http Status Codes</h1>
 | Category | Meaning |
 | --- | --- |
 | 1xx | Informational response |
