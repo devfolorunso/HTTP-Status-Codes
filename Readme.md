@@ -8,8 +8,8 @@
 
 > All the  HTTP response status codes are seperated into five classes or categories. The first digit of the code tells us the class of the response, while the last two digits do not have any classifying or categorizing role.
 
-
-| Category | Meaning |
+## There are five classes of Http Status Codes
+| Classes | Meaning |
 | --- | --- |
 | 1xx | Informational response |
 | 2xx  | Successful |
