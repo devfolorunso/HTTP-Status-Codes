@@ -6,5 +6,5 @@
 
 [<img src="https://res.cloudinary.com/ngleadersdb/image/upload/v1584474698/it_huyjrx.png" align="right" width="250" height="250">](https://github.com/afolorunso/)
 
-<p align="center">All the  HTTP response status codes are seperated into five classes or categories. The first digit of the code tells us the class of the response, while the last two digits do not have any classifying or categorizing role.</p>
+> All the  HTTP response status codes are seperated into five classes or categories. The first digit of the code tells us the class of the response, while the last two digits do not have any classifying or categorizing role.
 
